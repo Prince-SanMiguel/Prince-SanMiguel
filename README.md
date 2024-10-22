@@ -13,6 +13,7 @@
       <li>2022-Present</li>
     </ul>
 </ul>
+
 <h3><br>Certifications</h3>
 <hr>
 <ul> 

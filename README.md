@@ -5,6 +5,7 @@
 
 
 <h3><br>Education</h3>
+<hr>
 <ul>
   <li><i>BS Information Technology</i></li>
     <ul> 
@@ -13,6 +14,7 @@
     </ul>
 </ul>
 <h3><br>Certifications</h3>
+<hr>
 <ul> 
   <li> 
 <a href = "https://courses.cognitiveclass.ai/certificates/49eaf3fe6f284bd3a94c4a8e69d79316"> SQL and Relational Databases 101 </a>
@@ -20,6 +22,7 @@
 </ul>
 
 <h3><br>Skill Sets</h3>
+<hr>
 <ul>
   <li><strong>Programming: </strong>Java</li>
   <li><strong>Front-End Web Development: </strong>Html, CSS, JavaScript</li>

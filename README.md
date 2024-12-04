@@ -20,6 +20,10 @@
     <th>Certifications</th>
     <th>Date Issued</th>
   </tr>
+  <tr> 
+    <td><a href = "https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5417190&trackId=OCI2024FNDCFA&key=6786f78805fc7fd1d7ce4f5e24f74740706d5639"> Oracle Cloud Infrastructure Foundations Associate</a></td>
+    <td>December 04, 2024</td>
+  </tr>
   <tr>
     <td><a href = "https://courses.cognitiveclass.ai/certificates/49eaf3fe6f284bd3a94c4a8e69d79316"> SQL and Relational Databases 101 </a></td>
     <td>October 22, 2024</td>

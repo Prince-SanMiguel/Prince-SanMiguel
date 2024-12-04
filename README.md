@@ -14,13 +14,17 @@
     </ul>
 </ul>
 
-<h3><br>Certifications</h3>
 <hr>
-<ul> 
-  <li> 
-<a href = "https://courses.cognitiveclass.ai/certificates/49eaf3fe6f284bd3a94c4a8e69d79316"> SQL and Relational Databases 101 </a>
-  </li>
-</ul>
+<table style="width:100%">
+  <tr>
+    <th>Certifications</th>
+    <th>Date Issued</th>
+  </tr>
+  <tr>
+    <td><a href = "https://courses.cognitiveclass.ai/certificates/49eaf3fe6f284bd3a94c4a8e69d79316"> SQL and Relational Databases 101 </a></td>
+    <td>October 22, 2024</td>
+  </tr>
+</table>
 
 <h3><br>Skill Sets</h3>
 <hr>

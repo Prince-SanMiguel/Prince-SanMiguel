@@ -21,7 +21,7 @@
     <th>Date Issued</th>
   </tr>
   <tr> 
-    <td><a href = "https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5417190&trackId=OCI2024FNDCFA&key=6786f78805fc7fd1d7ce4f5e24f74740706d5639"> Oracle Cloud Infrastructure Foundations Associate</a></td>
+    <td><a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=5195B24E5913784A208671CB17AE0EF95B5DA492A4EB77AF3A9E61C6DDDA1920"> Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></td>
     <td>December 04, 2024</td>
   </tr>
   <tr>

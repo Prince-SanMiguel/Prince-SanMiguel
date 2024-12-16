@@ -21,6 +21,11 @@
     <th>Date Issued</th>
   </tr>
   <tr>
+    <td><a href = "https://catalog-education.oracle.com/pls/certview/sharebadge?id=5E494FD939FAF8745D453EF2379EACE6F6E45D12CA608F060C14A0D881165A75">
+      Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a></td>
+    <td>December 16, 2024</td>
+  </tr>
+  <tr>
     <td><a href = "https://catalog-education.oracle.com/pls/certview/sharebadge?id=5195B24E5913784A208671CB17AE0EF9BD5C810A44A44C950B074876DAF261B2"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></td>
     <td>December 11, 2024</td>
   </tr>
